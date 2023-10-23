@@ -1,0 +1,11 @@
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\bin\Debug\cementBagSale.exe.config
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\bin\Debug\cementBagSale.exe
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\bin\Debug\cementBagSale.pdb
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.csproj.AssemblyReference.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.Form1.resources
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.Properties.Resources.resources
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.csproj.GenerateResource.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.csproj.CoreCompileInputs.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.exe
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\C#\cementBagSale\cementBagSale\obj\Debug\cementBagSale.pdb

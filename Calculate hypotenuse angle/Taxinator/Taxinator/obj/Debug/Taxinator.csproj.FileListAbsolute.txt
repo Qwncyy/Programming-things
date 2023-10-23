@@ -1,0 +1,11 @@
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\bin\Debug\Taxinator.exe.config
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\bin\Debug\Taxinator.exe
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\bin\Debug\Taxinator.pdb
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.csproj.AssemblyReference.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.Form1.resources
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.Properties.Resources.resources
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.csproj.GenerateResource.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.csproj.CoreCompileInputs.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.exe
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Taxinator\Taxinator\obj\Debug\Taxinator.pdb

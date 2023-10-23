@@ -1,0 +1,10 @@
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.csprojAssemblyReference.cache
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.Form1.resources
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.Properties.Resources.resources
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.csproj.GenerateResource.cache
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.csproj.CoreCompileInputs.cache
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\bin\Debug\CircleFunctions.exe.config
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\bin\Debug\CircleFunctions.exe
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\bin\Debug\CircleFunctions.pdb
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.exe
+I:\HE\FD\Programming Fundamentals\CircleFunctions\CircleFunctions\obj\Debug\CircleFunctions.pdb

@@ -1,0 +1,11 @@
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.Bank.resources
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming big Trev\Bank\Bank\obj\Debug\Bank.pdb

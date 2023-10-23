@@ -1,0 +1,11 @@
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.csproj.AssemblyReference.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.Form1.resources
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.Properties.Resources.resources
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.csproj.GenerateResource.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.csproj.CoreCompileInputs.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\bin\Debug\CemBags2.exe.config
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\bin\Debug\CemBags2.exe
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\bin\Debug\CemBags2.pdb
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.exe
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\C#\CemBags2\CemBags2\obj\Debug\CemBags2.pdb

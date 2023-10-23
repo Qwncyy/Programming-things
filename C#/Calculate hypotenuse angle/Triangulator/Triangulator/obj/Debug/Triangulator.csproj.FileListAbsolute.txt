@@ -1,0 +1,11 @@
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\bin\Debug\Triangulator.exe.config
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\bin\Debug\Triangulator.exe
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\bin\Debug\Triangulator.pdb
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.csproj.AssemblyReference.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.Form1.resources
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.Properties.Resources.resources
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.csproj.GenerateResource.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.csproj.CoreCompileInputs.cache
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.exe
+C:\Users\m2104125.MBRONET\OneDrive - Middlesbrough College\Programming big Trev\Calculate hypotenuse angle\Triangulator\Triangulator\obj\Debug\Triangulator.pdb

@@ -1,0 +1,11 @@
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\bin\Debug\MoneySplitter.exe.config
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\bin\Debug\MoneySplitter.exe
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\bin\Debug\MoneySplitter.pdb
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.csproj.AssemblyReference.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.MoneySplitter.resources
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.Properties.Resources.resources
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.csproj.GenerateResource.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.csproj.CoreCompileInputs.cache
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.exe
+C:\Users\m2104125\OneDrive - Middlesbrough College\Programming - big Trev\C#\MoneySplitter\MoneySplitter\obj\Debug\MoneySplitter.pdb
